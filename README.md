@@ -55,11 +55,6 @@ I'm passionate about shipping products that are fast, reliable, and genuinely us
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimeneztion&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimeneztion&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jimeneztion&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
