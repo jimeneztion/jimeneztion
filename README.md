@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sergio 👋</h1>
+<h3 align="center">Senior Software Engineer · AI & Web Engineering</h3>
 
-<!--
-**jimeneztion/jimeneztion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-gil-jimenez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a **Senior Software Engineer** with dual master's degrees in **Artificial Intelligence** and **Web Engineering**, and a Bachelor's in **Computer Science from Universidad Complutense de Madrid**. I build production-grade systems at the intersection of AI and modern web — from ML pipelines to polished user interfaces.
+
+I'm passionate about shipping products that are fast, reliable, and genuinely useful. I care about the full stack: thoughtful architecture, clean APIs, and experiences that feel right to the user.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+`TypeScript` `Java` `Python` `JavaScript` `HTML/CSS`
+
+**Frontend**
+`Angular` `React` `Tailwind CSS` `Vite` `Electron`
+
+**Backend & AI**
+`Spring Boot` `FastAPI` `PyTorch` `Diffusion Models` `REST APIs`
+
+**Tooling**
+`Node.js` `Maven` `pnpm` `uv` `Git` `ESLint`
+
+---
+
+## 🎓 Education
+
+| Degree | Field | Institution |
+|---|---|---|
+| Master's | Artificial Intelligence | — |
+| Master's | Web Engineering | — |
+| Bachelor's | Computer Science | Universidad Complutense de Madrid |
+
+---
+
+## 💼 What I Bring
+
+- **Angular expert** — deep experience building scalable, maintainable SPAs with Angular's full ecosystem
+- **AI-native engineering** — I understand both the ML layer and the product layer, and I can build the bridge between them
+- **Frontend depth** — component lifecycle, state management, and UX correctness (not just "it renders")
+- **Backend discipline** — Spring Boot, API design, concurrency patterns, and clean separation of concerns
+
+---
+
+<p align="center">
+  <b>Building AI products that ship.</b><br/>
+  <a href="mailto:sergiogiljimenez@gmail.com">sergiogiljimenez@gmail.com</a>
+</p>
